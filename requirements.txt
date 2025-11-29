@@ -1,3 +1,2 @@
-hererequests
+requests
 frida-tools
-pycryptodome
